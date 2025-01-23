@@ -1,0 +1,30 @@
+{
+    "serviceList": {
+      "title": "Services",
+      "searchPlaceholder": "Search services...",
+      "addToCart": "Add to Cart"
+    },
+    "cart": {
+      "title": "Cart",
+      "total": "Total",
+      "remove": "Remove"
+    },
+    "checkout": {
+      "title": "Checkout",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "pay": "Pay Now",
+      "success": "Payment Successful!"
+    },
+    "receipt": {
+      "title": "Receipt",
+      "total": "Total"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "revenue": "Total Revenue",
+      "servicesSold": "Total Services Sold"
+    },
+    "currency": "₹"
+  }

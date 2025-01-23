@@ -1,0 +1,30 @@
+{
+    "serviceList": {
+      "title": "सेवाएं",
+      "searchPlaceholder": "सेवाएं खोजें...",
+      "addToCart": "कार्ट में जोड़ें"
+    },
+    "cart": {
+      "title": "कार्ट",
+      "total": "कुल",
+      "remove": "हटाएं"
+    },
+    "checkout": {
+      "title": "चेकआउट",
+      "name": "नाम",
+      "email": "ईमेल",
+      "phone": "फ़ोन",
+      "pay": "अभी भुगतान करें",
+      "success": "भुगतान सफल!"
+    },
+    "receipt": {
+      "title": "रसीद",
+      "total": "कुल"
+    },
+    "analytics": {
+      "title": "विश्लेषण",
+      "revenue": "कुल राजस्व",
+      "servicesSold": "कुल सेवाएं बेची गईं"
+    },
+    "currency": "₹"
+  }
